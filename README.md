@@ -178,7 +178,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani-khunte&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&fire=ffd700&currStreakLabel=ffd700" alt="GitHub Streak" width="80%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=parasmani-khunte&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&fire=F8D866&sideLabels=38BDAE&currStreakNum=FFFFFF&ring=F85D7F&currStreakLabel=F8D866&sideNums=F85D7F" alt="GitHub Streak" width="90%" />
+  </a>
 </div>
 
 ---
