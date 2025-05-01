@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 ## 💫 About Me
 
@@ -178,9 +178,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=parasmani-khunte&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&fire=F8D866&sideLabels=38BDAE&currStreakNum=FFFFFF&ring=F85D7F&currStreakLabel=F8D866&sideNums=F85D7F" alt="GitHub Streak" width="90%" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani-khunte&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&fire=ffd700&currStreakLabel=ffd700" alt="GitHub Streak" width="80%" />
 </div>
 
 ---
@@ -189,14 +187,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%">
 
 <div align="center">
   
 ### Thanks for visiting my profile! 👋
 ### Let's build something amazing together! 💻
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
 
 </div>
 
