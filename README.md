@@ -1,201 +1,156 @@
 <div align="center">
-  
-# ✨ PARASMANI KHUNTE ✨
 
-### 🚀 Full Stack Developer from India 🚀
+# `> PARASMANI_KHUNTE.init()`
 
-[![Profile Views](https://komarev.com/ghpvc/?username=parasmani-khunte&label=Profile%20views&color=ff90d1&style=flat)](https://github.com/parasmani-khunte)
-[![GitHub followers](https://img.shields.io/github/followers/parasmani-khunte?style=social)](https://github.com/parasmani-khunte)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Full+Stack+Developer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=25&pause=1000&color=FF90D1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Native+Expert;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+```typescript
+const parasmani = {
+  location: "🇮🇳 India",
+  role: "Full Stack Developer",
+  focus: ["Web", "Mobile", "AI/ML"],
+  currentlyLearning: "Advanced System Architecture",
+  funFact: "I debug with console.log() and I'm not ashamed"
+};
+```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
+[![Profile Views](https://komarev.com/ghpvc/?username=parasmani-khunte&label=VISITORS&color=6366f1&style=for-the-badge)](https://github.com/parasmani-khunte)
+[![GitHub followers](https://img.shields.io/github/followers/parasmani-khunte?style=for-the-badge&color=6366f1&labelColor=1e1e2e)](https://github.com/parasmani-khunte)
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parasmani-khunte&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="trophy" />
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right">
+## `$ whoami`
+
+```bash
+┌──(parasmani@developer)-[~/projects]
+└─$ cat about.txt
+
+🎯 Passionate about crafting scalable, performant applications
+💡 Turning coffee into code since [YEAR]
+🚀 Open source contributor & tech enthusiast
+🧠 Currently diving deep into ML/AI ecosystems
+📍 Based in India | Working globally
+```
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
-
-## 💫 About Me
-
-- 🌱 I'm passionate about creating robust web applications
-- 💬 Let's talk about **JavaScript, React, Node.js, and Python**
-- 🔭 Currently expanding my knowledge in ML/AI
-- ⚡ Fun fact: I love exploring new technologies!
-
----
-
-## 🌈 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-      <br>React Native
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-      <br>Arduino
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
-      <br>Blender
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-      <br>VSCode
-    </td>
-</table>
-
----
-
-## 🌟 Connect With Me
-
-<p align="center">
-  <a href="https://www.hackerrank.com/parasmani khunte" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.leetcode.com/parasmani khunte" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/parasmanikhunte" target="_blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
-  </a>
-  <a href="https://discord.gg/paras3915" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 📊 GitHub Stats
+## `$ cat tech_stack.json`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parasmani-khunte&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=38BDAE" alt="Parasmani's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasmani-khunte&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=38BDAE" alt="Most Used Languages" height="170" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani-khunte&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&fire=ffd700&currStreakLabel=ffd700" alt="GitHub Streak" width="80%" />
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **AI/ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### **Design**
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+## `$ git log --stat`
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parasmani-khunte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&icon_color=6366f1&text_color=a0a8b7&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani-khunte&theme=tokyonight&hide_border=true&background=1a1b27&stroke=6366f1&ring=6366f1&fire=fbbf24&currStreakLabel=fbbf24" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasmani-khunte&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6366f1&text_color=a0a8b7" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=parasmani-khunte&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" />
+
+</div>
 
 <div align="center">
   
-### Thanks for visiting my profile! 👋
-### Let's build something amazing together! 💻
-
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+### **Activity Graph**
+[![Parasmani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parasmani-khunte&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6366f1&line=6366f1&point=fbbf24)](https://github.com/parasmani-khunte)
 
 </div>
 
-<!-- Credit: [Parasmani Khunte](https://github.com/parasmani-khunte) -->
+---
+
+## `$ ls connect/`
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/parasmani%20khunte)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/parasmani%20khunte)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/parasmanikhunte)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/paras3915)
+
+</div>
+
+---
+
+## `$ cat quote.txt`
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."   ║
+║                                        – John Johnson ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+### 💬 Let's Build Something Amazing Together
+
+```javascript
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
+
+**💼 Open for collaborations | 🚀 Always learning | ⚡ Let's connect!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+
+</div>
+
+<!-- Crafted with 💙 by Parasmani Khunte -->
