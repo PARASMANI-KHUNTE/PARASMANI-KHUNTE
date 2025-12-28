@@ -16,7 +16,7 @@ const parasmani = {
     location: "India 🇮🇳",
     education: "Computer Science & Engineering",
     currentFocus: "Building Scalable Web Applications",
-    askMeAbout: ["Web Dev", "Mobile Dev", "AI/ML", "Tech", "Photography"],
+    askMeAbout: ["Web Dev", "Mobile Dev", "AI/ML", "Tech", "Video Editing"],
     technologies: {
         frontEnd: {
             js: ["React", "React Native"],
