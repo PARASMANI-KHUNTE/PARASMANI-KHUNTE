@@ -1,212 +1,265 @@
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Parasmani%20Khunte&fontColor=fff&fontSize=65&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Cloud%20%7C%20IoT&descColor=d8b4fe&descSize=20&descAlignY=62&animation=twinkling" />
+
+<!-- SOCIAL BADGES -->
 <div align="center">
+<br/>
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey, I'm Parasmani Khunte!
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-7c3aed?style=for-the-badge)](https://parasmanikhunte.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parasmani-khunte-330488228)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parasmanikhunte@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PARASMANI-KHUNTE)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+Native+Expert+%E2%9A%9B%EF%B8%8F;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Building+Cool+Stuff+%E2%9C%A8" alt="Typing SVG" />
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+Scalable+Full-Stack+Apps+%F0%9F%9A%80;MERN+Stack+%7C+REST+APIs+%7C+WebSockets+%E2%9A%A1;AWS+%26+Vercel+Cloud+Deployments+%E2%98%81%EF%B8%8F;IoT+%7C+Arduino+%7C+Raspberry+Pi+%F0%9F%A4%96;System+Design+%7C+AI-driven+Products+%F0%9F%A7%A0" alt="Typing SVG"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=parasmani-khunte&color=7c3aed&style=for-the-badge&label=Profile+Views)
 
 </div>
 
-## 🎯 About Me
+---
 
-```typescript
-const parasmani = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    education: "Computer Science & Engineering",
-    currentFocus: "Building Scalable Web Applications",
-    askMeAbout: ["Web Dev", "Mobile Dev", "AI/ML", "Tech", "Video Editing"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "React Native"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask", "Django"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-        aiml: ["TensorFlow", "PyTorch", "Scikit-Learn", "OpenCV"],
-        devOps: ["Docker", "Git", "GitHub Actions"],
-        misc: ["Arduino", "IoT", "3D Modeling"]
-    },
-    architecture: ["Microservices", "Event-Driven", "RESTful APIs"],
-    currentlyLearning: ["System Design", "Web3", "Cloud Architecture"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
+<!-- ABOUT ME -->
+<img align="right" alt="developer gif" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+## ☀️ About Me
+
+```yaml
+Name     : Parasmani Khunte
+Location : Bilaspur, Chhattisgarh 🇮🇳
+Degree   : MCA — Guru Ghasidas University
+BCA CGPA : 8.20 / 10
+Status   : 🟢 Open to Opportunities
+Focus    : MERN · Cloud · IoT · System Design
 ```
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+**I turn complex problems into elegant solutions.**
 
-### 🔥 Quick Highlights
+- 💼 **5+ Real-world internships** building production systems
+- 🌐 Built apps used by **real clients** (fintech, SaaS, IoT)
+- 🧠 Passionate about **clean architecture** & **AI-driven products**
+- 🤖 IoT enthusiast — hardware meets software
+- 🌱 Currently mastering **System Design** & **Cloud Architecture**
 
-- 🚀 Building modern web & mobile applications
-- 💡 Passionate about clean code & best practices
-- 🎯 Love solving complex problems
-- 🌱 Constantly learning new technologies
-- 🤝 Open to collaborating on innovative projects
-- 📚 Sharing knowledge through code
-- ⚡ Fast learner & quick adapter
-- 🎨 Keen eye for UI/UX design
+<br clear="right"/>
 
-<br clear="both"/>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&theme=dark" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,html,css&theme=dark" />
 
-### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui,redux&theme=dark" />
+### ⚛️ Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-### Backend Technologies
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi&theme=dark" />
+### 🔧 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase&theme=dark" />
+### 🛢️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark" />
 
-### AI/ML & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+### ☁️ Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,postman,linux,vscode&theme=dark" />
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" />
-
-### Design & Creative
-<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai,xd&theme=dark" />
-<br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+### 🤖 IoT & Data
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 📊 GitHub Statistics
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Hybrowlabs Technologies — Technical Intern (Mar 2025 – May 2025)</b></summary>
+<br/>
+
+- ⚡ Built React applications and integrated REST APIs for client-facing modules
+- 🛰️ Developed a **GPS tracking system** prototype (IoT + Web)
+- 🐛 Debugged and improved UI components across the codebase
+</details>
+
+<details>
+<summary><b>💻 Akkuraa IT Services — Web Developer Intern (Jan 2025 – Apr 2025)</b></summary>
+<br/>
+
+- 🚀 Built and deployed full **MERN stack** applications with scalable APIs
+- ☁️ Managed CI/CD workflows using **AWS** and **Vercel**
+- 🔐 Authentication & MongoDB database integration
+</details>
+
+<details>
+<summary><b>🛡️ Bluestock Fintech — SDE Intern (Nov 2024 – Dec 2024)</b></summary>
+<br/>
+
+- 🔒 Developed **fintech-grade secure backend APIs**
+- 🧪 Built API testing workflows using **Postman**
+- ✅ Followed industry-standard secure coding practices
+</details>
+
+<details>
+<summary><b>📸 Elite Tech Intern — Full Stack Intern (Oct 2024 – Nov 2024)</b></summary>
+<br/>
+
+- 🖼️ Built **Photoshare** — a complete social media app with auth & CRUD
+- ❤️ Implemented likes, comments & real-time updates with **Socket.io**
+- 📐 MongoDB schema design & Express.js routing
+</details>
+
+<details>
+<summary><b>🤖 GFG Student Chapter, GGU — IoT Executive (Oct 2024 – May 2025)</b></summary>
+<br/>
+
+- 🎓 Led IoT workshops — guided 50+ students on **Arduino & Raspberry Pi**
+- 🔧 Designed prototype projects and assisted in technical event demos
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📱 MyCircle</h3>
+      <sub><i>Cross-Platform Social Networking App</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <br/><br/>
+      ✅ Post, like, comment & profile management<br/>
+      ✅ Scalable REST APIs & efficient DB schemas<br/>
+      ✅ Modular navigation with responsive mobile UI
+    </td>
+    <td width="50%" align="center">
+      <h3>📷 Photoshare</h3>
+      <sub><i>Full-Stack Social Media Web App</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <br/><br/>
+      ✅ JWT auth & secure authorization<br/>
+      ✅ Real-time likes, comments & updates<br/>
+      ✅ Optimized frontend-backend integration
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>✈️ Travel Agency Booking</h3>
+      <sub><i>Full-Stack Booking Platform</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/MERN-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+      <br/><br/>
+      ✅ User auth, admin panel & feedback system<br/>
+      ✅ MongoDB schema for bookings & management<br/>
+      ✅ Responsive Tailwind CSS frontend
+    </td>
+    <td width="50%" align="center">
+      <h3>🛰️ GPS Tracking System</h3>
+      <sub><i>IoT + Web Prototype</i></sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white"/>
+      <br/><br/>
+      ✅ Real-time location tracking over web<br/>
+      ✅ REST API integration for IoT device feed<br/>
+      ✅ Built for Hybrowlabs Technologies (client)
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education
+
+| 🏛️ Degree | 🏫 Institution | 📅 Year | 🏅 Grade |
+|:---|:---|:---:|:---:|
+| MCA | Guru Ghasidas University | 2025–2027 | In Progress |
+| BCA | Guru Ghasidas Vishwavidyalaya | 2022–2025 | **8.20 / 10** |
+| Class XII | Kendriya Vidyalaya, Raigarh | 2021 | **82%** |
+| Class X | Kendriya Vidyalaya, Raigarh | 2019 | **78%** |
+
+---
+
+## 📜 Certifications
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parasmani-khunte&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani-khunte&theme=radical&hide_border=true" />
+
+![Backend](https://img.shields.io/badge/Backend%20Development-Great%20Learning-7c3aed?style=for-the-badge)
+![React](https://img.shields.io/badge/React.js-Great%20Learning-61DAFB?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20%2B%20MySQL-Great%20Learning-3776AB?style=for-the-badge)
+![CySec](https://img.shields.io/badge/Cyber%20Security-NIT%20Kanpur-EA4335?style=for-the-badge)
+
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasmani-khunte&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=parasmani-khunte&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
-</div>
+---
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parasmani-khunte&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parasmani-khunte&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🎯 Coding Profiles
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/parasmani%20khunte)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/parasmani%20khunte)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/parasmanikhunte)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parasmani-khunte&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani-khunte&theme=midnight-purple&hide_border=true" />
+
+<br/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasmani-khunte&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" />
+<img width="55%" src="https://github-profile-trophy.vercel.app/?username=parasmani-khunte&theme=radical&no-frame=true&margin-w=6&column=4&no-bg=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parasmani-khunte&bg_color=110025&color=c084fc&line=7c3aed&point=e879f9&area=true&hide_border=true" width="98%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 <div align="center">
 
-🎓 **Computer Science Graduate**  
-💻 **Multiple Hackathon Participations**  
-🏅 **Problem Solving Badges on HackerRank**  
-🌟 **Active Open Source Contributor**  
-📜 **Web Development Certifications**  
-🤖 **Machine Learning Course Completion**
+| 🏅 | Details |
+|:---:|:---|
+| 🥊 | **Smart India Hackathon** — Represented university with innovative tech solutions |
+| 🤖 | **IoT Workshop Leader** — Guided 50+ students on Arduino & Raspberry Pi at GFG GGU |
+| 💡 | **Coding Events Organizer** — Led university-level technical events |
+| 🌍 | **Production Experience** — Worked with real clients in fintech, SaaS, and IoT |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 💡 Random Dev Quote
-
+<!-- QUOTE & FOOTER -->
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-</div>
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br/><br/>
 
-## 📈 Profile Stats
+### 💬 Let's build something extraordinary together!
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge)](https://parasmanikhunte.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parasmani-khunte-330488228)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parasmanikhunte@gmail.com)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parasmani-khunte&theme=radical" width="98%" />
+<br/>
 
-<br><br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parasmani-khunte&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parasmani-khunte&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parasmani-khunte&theme=radical&utcOffset=5.5" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/paras3915)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/parasmani-khunte/parasmani-khunte/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<div align="center">
-
-### 💬 Let's Build Something Amazing Together!
-
-![Visitor Count](https://profile-counter.glitch.me/parasmani-khunte/count.svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/parasmani-khunte?label=Follow&style=social)](https://github.com/parasmani-khunte)
-[![GitHub stars](https://img.shields.io/github/stars/parasmani-khunte?label=Stars&style=social)](https://github.com/parasmani-khunte)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
-**⭐️ From [parasmani-khunte](https://github.com/parasmani-khunte) | Made with ❤️ and lots of ☕**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
 </div>
