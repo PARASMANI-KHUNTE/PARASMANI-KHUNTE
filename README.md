@@ -154,8 +154,8 @@ OCT 2024 – NOV 2024   Full Stack Intern              Elite Tech
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=parasmani-khunte&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=8B949E" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parasmani-khunte&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=21262D&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=PARASMANI-KHUNTE&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=8B949E&cache_seconds=86400" height="165" />
+<img src="https://streak-stats.demolab.com/?user=PARASMANI-KHUNTE&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=21262D&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" height="165" />
 
 </div>
 
