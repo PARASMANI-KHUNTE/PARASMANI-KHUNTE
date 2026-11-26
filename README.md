@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=PARASMANI%20KHUNTE&fontColor=58A6FF&fontSize=54&fontAlignY=42&desc=Backend%20%2F%20Full-Stack%20Developer&descColor=8B949E&descSize=20&descAlignY=64" width="100%" />
 
 <p>
-  <a href="https://parasmanikhunte.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></a>
+  <a href="https://parasmaniportfolio.z29.web.core.windows.net/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=58A6FF" /></a>
   <a href="https://linkedin.com/in/parasmani-khunte-330488228"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:parasmanikhunte@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://github.com/PARASMANI-KHUNTE"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" /></a>
@@ -75,9 +75,9 @@ currently learning/
 
 `Node.js` `TypeScript` `Redis Streams` `MongoDB` `Docker`
 
-- 8-service architecture with event-driven communication.
-- Circuit breakers for failure isolation.
-- OpenTelemetry tracing across services.
+- 8-service architecture with event-driven communication and API Gateway.
+- Opossum circuit breakers with fallbacks for HTTP inter-service resilience.
+- Verified test suite and multi-job CI pipeline across backend, web, and mobile.
 
     </td>
     <td width="33%" valign="top">
@@ -87,9 +87,9 @@ currently learning/
 
 `Electron` `FastAPI` `Qdrant` `Celery` `Ollama`
 
-- Desktop UI with a FastAPI RAG middleware layer.
-- Asynchronous processing with Celery and Redis.
-- Local inference keeps user data on-premise.
+- Desktop UI with FastAPI middleware, 3-tier memory (short, long, semantic), and vector search.
+- Asynchronous task processing with Celery, Redis, and LangGraph multi-step reasoning.
+- CI-verified schema validation and local inference pipeline.
 
     </td>
     <td width="33%" valign="top">
@@ -99,9 +99,9 @@ currently learning/
 
 `React` `React Native` `Node.js` `MongoDB`
 
-- Web and mobile platform with Google OAuth.
-- Real-time interactions and geospatial discovery.
-- Configurable 500m, 1km, and 2km proximity ranges.
+- Monorepo containing Express REST API, React web client, and React Native mobile app.
+- Real-time interactions, Socket.io updates, and geospatial discovery (500m–2km).
+- 100% green CI test suite across server, web, and mobile clients.
 
     </td>
   </tr>
@@ -145,8 +145,8 @@ OCT 2024 – NOV 2024   Full Stack Intern              Elite Tech
 
 ## Let's build dependable systems.
 
-<a href="https://parasmanikhunte.onrender.com">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-238636?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://parasmaniportfolio.z29.web.core.windows.net/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-238636?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 <a href="mailto:parasmanikhunte@gmail.com">
   <img src="https://img.shields.io/badge/Start_a_Conversation-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" />
